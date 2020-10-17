@@ -1,0 +1,1 @@
+# Thinknetica go course
